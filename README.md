@@ -2,6 +2,13 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+# Weather App 🌤
+This is a simple weather app built with React Native.
+
+## 📷 Screenshot
+![App Screenshot](screenshot.png)
+
+
 ## Get started
 
 1. Install dependencies
